@@ -1,0 +1,12 @@
+@import url("https://use.typekit.net/rka1rdb.css");
+
+:root {
+  --sl-color-text-accent: #ff8f51;
+}
+
+h1, h2, h3 {
+  font-family: "cubano", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 1px;
+}
