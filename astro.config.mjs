@@ -7,8 +7,7 @@ export default defineConfig({
     starlight({
       title: 'Moonborn',
       logo: {
-        dark: './src/assets/moonborn_logo.png',
-        light: './src/assets/moonborn_logo_light.png',
+        src: './src/assets/moonborn_logo.svg',
         replacesTitle: true,
       },
       customCss: [
