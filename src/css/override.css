@@ -1,6 +1,10 @@
 @import url("https://use.typekit.net/rka1rdb.css");
 
-:root {
+:root[data-theme='light'] {
+  --sl-color-text-accent: #fc6c6d;
+}
+
+:root[data-theme='dark'] {
   --sl-color-text-accent: #ff8f51;
 }
 
