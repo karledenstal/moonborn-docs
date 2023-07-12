@@ -9,6 +9,10 @@ MOONBORN - Aela Expanded comes full of features. Here's a short list of them:
 - All 700+ vanilla lines are re-voiced
 - 500+ new dialogue lines
 - Adds back in cut quest *Animal Pelt Collection* with updated script + Hunterborn support.
+- Once every 3 days you can ask Aela if she's got any ingredients/animal pelts for you.
+  - You can ask her for alchemy ingredients she might've found.
+  - You can ask her for any ingredients found from animals.
+  - You can ask her for any pelts she might have gotten from hunting.
 
 ## Idle dialogue
 
@@ -70,6 +74,8 @@ Currently Aela has thoughts about the following interiors:
 - Hall of the Dead
 - Temple of Kynareth
 - The Bannered Mare
+- Riverwood Trader
+- Sleeping Giant Inn
 
 **Falkreath**
 
@@ -78,8 +84,6 @@ Currently Aela has thoughts about the following interiors:
 - Grave Concoctions
 - Gray Pine Goods
 - Longhouse
-- Riverwood Trader
-- Sleeping Giant Inn
 - Helgen
 
 **Riften**
@@ -87,14 +91,12 @@ Currently Aela has thoughts about the following interiors:
 - The Bee and Barb
 - Beggar's Row
 - Honorhall Orphanage
-- Riften Jail
 - Mistveil Keep
 - The Ratway
 - Honeyside
 - Ragged Flagon
-- Vilemyr Inn (Ivarstead)
 - Temple of Mara
-- Haelga's Bunkhouse
+- Vilemyr Inn (Ivarstead)
 
 **Solitude**
 
@@ -110,8 +112,7 @@ Currently Aela has thoughts about the following interiors:
 **Markarth**
 
 - Silver-Blood Inn
-- Calcelmo's Tower
-- The Treasury House
+- Temple of Dibella
 - Understone Keep
 - The Warrens
 
@@ -119,8 +120,6 @@ Currently Aela has thoughts about the following interiors:
 
 - Candlehearth Hall
 - Palace of the Kings
-- New Gnisis Cornerclub
-- The White Phial
 
 **Winterhold**
 
