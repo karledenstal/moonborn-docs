@@ -1,11 +1,11 @@
 ---
 title: Overview
-description: Overview of the pipeline.
+description: Overview of the roadmap
 ---
 
 It's unfeasible to release a follower mod with all the features we want in one go, so we are planning a few updates that we will be working on in the coming months. There is no ETA or deadline for any of these updates, as life dictates how much time we can spend on the mod, but we will be working on them as much as we can.
 
-In order to have more focused releases and to make it easier for us to dedicate our work to specific features, we release updates in a pipeline. This will be added to as we go along, but for now the pipeline is as follows:
+In order to have more focused releases and to make it easier for us to dedicate our work to specific features, we release updates in a roadmap. This will be added to as we go along, but for now the roadmap is as follows:
 
 - Main Quests + DLC dialogue *(v1.1)*
 - Minor Quests dialogue *(v1.2)*

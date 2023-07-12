@@ -15,7 +15,7 @@ export default defineConfig({
       ],
       social: {
         discord: 'https://discord.com',
-        github: 'https://github.com/karledenstal/moonborn-docs',
+        github: 'https://github.com/karledenstal/moonborn-aela',
       },
       sidebar: [
         {
@@ -34,13 +34,13 @@ export default defineConfig({
           autogenerate: { directory: 'reference' },
         },
         {
-          label: 'Pipeline',
+          label: 'Roadmap',
           items: [
-            { label: 'Overview', link: '/pipeline/overview/' },
-            { label: 'Main Quests Update', link: '/pipeline/main-quests/' },
-            { label: 'Minor Quests Update', link: '/pipeline/minor-quests/' },
-            { label: 'Polish', link: '/pipeline/polish/' },
-            { label: 'Marriage Update', link: '/pipeline/marriage/' },
+            { label: 'Overview', link: '/roadmap/overview/' },
+            { label: 'Main Quests Update', link: '/roadmap/main-quests/' },
+            { label: 'Minor Quests Update', link: '/roadmap/minor-quests/' },
+            { label: 'Polish', link: '/roadmap/polish/' },
+            { label: 'Marriage Update', link: '/roadmap/marriage/' },
           ]
         },
         {
