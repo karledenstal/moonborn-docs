@@ -26,7 +26,7 @@ export default defineConfig({
             { label: 'Installation', link: '/guides/installation/' },
             { label: 'Updating', link: '/guides/updating/' },
             { label: 'Uninstall', link: '/guides/uninstall/' },
-            { label: 'Support', link: '/guides/support/' }
+            // { label: 'Support', link: '/guides/support/' }
           ],
         },
         {
