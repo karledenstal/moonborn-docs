@@ -6,7 +6,7 @@ export default defineConfig({
 	redirects: {
 		"/": "/guides/get-started/"
 	},
-	trailingSlash: true,
+	trailingSlash: "always",
   integrations: [
     starlight({
       title: 'Moonborn',
