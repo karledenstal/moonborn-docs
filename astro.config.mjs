@@ -38,16 +38,6 @@ export default defineConfig({
           autogenerate: { directory: 'reference' },
         },
         {
-          label: 'Roadmap',
-          items: [
-            { label: 'Overview', link: '/roadmap/overview/' },
-            { label: 'Main Quests Update', link: '/roadmap/main-quests/' },
-            { label: 'Minor Quests Update', link: '/roadmap/minor-quests/' },
-            { label: 'Polish', link: '/roadmap/polish/' },
-            { label: 'Marriage Update', link: '/roadmap/marriage/' },
-          ]
-        },
-        {
           label: 'Changelog',
           autogenerate: { directory: 'changelog' },
         }

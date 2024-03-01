@@ -13,6 +13,8 @@ You can download the mod from [Nexus Mods](https://www.nexusmods.com/skyrimspeci
 
 ## Install
 
+Make sure to install the requirements listed in the [Getting Started](/guides/get-started) guide before continuing.
+
 Double-click the downloaded mod in your preferred mod manager to start the installation. Follow the FOMOD step-by-step. The FOMOD will automatically install the main mod for you, as well as provide patches for NPC replacers ([check previous step](/guides/get-started#aela-visual-enhancer)) and other mods such as [Companions Dialogue Bundle](https://www.nexusmods.com/skyrimspecialedition/mods/93592) and [AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654).
 
 That should be it for installation. Start up the game and get ready to meet Aela!
