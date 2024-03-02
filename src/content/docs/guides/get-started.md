@@ -3,6 +3,8 @@ title: Getting Started
 description: Get started on using MOONBORN - Aela Expanded.
 ---
 
+Moonborn is a mod created by jakequery and KiaraRedVA. The mod expands on Aela the Huntress' character, adding new dialogue, interaction and making her a fuller character.
+
 ## Requirements
 
 Keep in mind that these requirements may have their own requirements. Make sure to read the description of each mod to ensure you have everything you need.
