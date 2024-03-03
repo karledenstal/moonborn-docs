@@ -8,12 +8,16 @@ MOONBORN - Aela Expanded comes full of features. Here's a short list of them:
 - Fully-voiced dialogue by the talented [KiaraRedVA](https://twitter.com/KiaraRedVA)
 - All vanilla lines recorded.
 - Over 1000+ lines of dialogue.
-- Enhanced dialogue for the vanilla Companions questline.
 - Commentary on side quests and the main quest of Skyrim.
 - Aela's thoughts on the world around her.
-- Once every 3 days you can ask Aela if she's got any ingredients/animal pelts for you.
+- Aela can tell you stories about the Companions and her past.
+- Get to know Aela better by traveling with her and asking her about her life.
+- Once every 3 days you can ask Aela for alchemy ingredients, pelts and arrows.
   - You can ask her for alchemy ingredients she might've found.
   - You can ask her for any ingredients found from animals.
   - You can ask her for any pelts she might have gotten from hunting.
+- Enhanced Vanilla Content
+  - Throughout the Companions questline, Aela will act as sort of a mentor.
+  - Talk with Aela after the major quests in the Companions questline to get her thoughts on the events.
 
 TBD
