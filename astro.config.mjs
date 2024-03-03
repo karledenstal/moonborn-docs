@@ -19,7 +19,7 @@ export default defineConfig({
       ],
       social: {
         discord: 'https://discord.com',
-        github: 'https://github.com/karledenstal/moonborn-aela',
+				twitter: 'https://twitter.com/KiaraRedVA',
       },
       sidebar: [
         {
