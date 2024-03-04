@@ -10,6 +10,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Moonborn',
+      favicon: '/favicon.png',
       logo: {
         src: './src/assets/moonborn_logo.svg',
         replacesTitle: true,
