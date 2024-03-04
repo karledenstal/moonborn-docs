@@ -21,7 +21,7 @@ Before continuing, we do recommend also installing the following mods to enhance
 
 ## Aela Visual Enhancer
 
-Moonborn comes with it's own visual replacement for Aela, but we also have patches for some of the most popular following visual mods:
+Moonborn comes with it's own [visual replacement](#) for Aela, but we also have patches for some of the most popular following visual mods:
 
 - [Bijin Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825)
 - [Pandorable's Shield-Sisters](https://www.nexusmods.com/skyrimspecialedition/mods/42480)
@@ -29,7 +29,7 @@ Moonborn comes with it's own visual replacement for Aela, but we also have patch
 - [NITHI NPC Enhancement - The Companions](https://www.nexusmods.com/skyrimspecialedition/mods/83270)
 - [Northbourne NPCs - Whiterun Hold](https://www.nexusmods.com/skyrimspecialedition/mods/35404)
 - [High Poly True To Vanilla NPC Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/74226)
-- [ESL Aela Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/103319)
+- [Vipermini Anete Aela Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/103319)
 
 If your favorite Aela visual overhaul isn't included in the list above, don't worry! You can easily create a patch yourself. See [Creating a Patch](/docs/guides/creating-a-patch) for more information. Or you can ask us in the Discord for one and we'll be happy to add it.
 
